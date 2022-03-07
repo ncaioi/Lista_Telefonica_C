@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1605230238 source:c:\users\caioi\onedrive\Área de trabalho\caio\kio\trab1_ed1\exercicio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista_Telefonica.h"
+
+1605230074 c:\users\caioi\onedrive\Área de trabalho\caio\kio\trab1_ed1\exercicio_1\lista_telefonica.h
+
+1605293966 source:c:\users\caioi\onedrive\Área de trabalho\caio\kio\trab1_ed1\exercicio_1\lista_telefonica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Lista_Telefonica.h"
+
